@@ -1,0 +1,6 @@
+{:.2f} - Formating a float number
+
+a = 13.949
+print("{:.2f}".format(a))
+
+'a' represents tge variable to format
